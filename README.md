@@ -9,3 +9,7 @@
 - composer install
 - php artisan migrate
 - php artisan db:seed
+
+## Test
+
+You can test using the collection and env information under the Postman folder.
